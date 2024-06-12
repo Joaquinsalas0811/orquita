@@ -1,0 +1,57 @@
+body{
+    background-color: salmon;
+
+h1{
+    background-color: brown;
+    color: blue;
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid teal   
+}
+.caja{
+  background-color: white;
+  border: 3px solid black;
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+  margin: 5px;
+}
+.flex{
+  border: 1px solid black;
+  background-color: chocolate;
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+    h2{
+        color: chartreuse;
+        font-size: 50px;
+        font-style: italic;
+    }
+    .parrafo_color{
+    color: black
+    font-size: 25px;
+    font-style: oblique;
+    }
+    h3{
+        color: blueviolet;
+        font-size: 35px;
+      }
+      .homero{
+        width: 100px;
+      }
+    }
+
+    .imagen{
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+
+    
+    
